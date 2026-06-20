@@ -1,10 +1,14 @@
 # Hi there, I'm Komalpreet Kaur 👋
 
 🎓 Pre-final year **Computer Science and Engineering** student at **Guru Nanak Dev Engineering College**
+
 💻 Passionate about **Artificial Intelligence, Machine Learning, Full-Stack Development, and Data Science**
+
 🌱 Currently exploring **MERN Stack, Deep Learning, NLP, and AI-based real-world solutions**
+
 🏆 **NXP Women in Tech Scholar** | Research Presenter | Tech Enthusiast
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d4d350e5-4298-4aae-90ec-f60fb384001f" />
 ---
 
 ## 👩‍💻 About Me
@@ -77,6 +81,4 @@ An AI chatbot built using BotPress that suggests relevant IPC sections based on 
 
 ✨ *Always learning, building, and contributing to impactful technology solutions.*
 
-
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d4d350e5-4298-4aae-90ec-f60fb384001f" />
 
